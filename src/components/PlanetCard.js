@@ -18,4 +18,4 @@ PlanetCard.propTypes = {
   planetImage: PropTypes.string.isRequired,
 };
 
-export default Title;
+export default PlanetCard;
